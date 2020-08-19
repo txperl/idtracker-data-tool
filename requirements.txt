@@ -1,0 +1,5 @@
+numpy==1.18.5
+scipy==1.4.1
+pandas==1.0.4
+matplotlib==3.2.1
+trajectorytools==0.3.1a0
